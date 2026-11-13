@@ -1,7 +1,8 @@
 # Reposicion-de-Informatica-
 en este trabajo adjunto o que es: el codigo html, css y js de lo que es mi pagina web acerca del futbol 
-Codigo HTML
 
+
+CODIGO HTML
 <img width="1346" height="557" alt="image" src="https://github.com/user-attachments/assets/b68487c2-1d5b-4593-ba5b-e104490e60a5" />
 
 
